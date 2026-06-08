@@ -1,11 +1,11 @@
 ---
-name: code-review
+name: skill-one
 description: Reviews code for bugs, security issues, and style. Use when the user asks for code review, PR feedback, or quality checks.
 license: MIT
 compatibility: Claude Code, Claude.ai
 metadata:
-  author: your-username
-  version: "1.0.0"
+  author: test123
+  version: "1.2.0"
 ---
 
 # Code Review
