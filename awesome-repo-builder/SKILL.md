@@ -1,6 +1,9 @@
 ---
 name: awesome-repo-builder
 description: Create a topic-specific GitHub awesome-list repository scaffold with a polished README, concise contribution rules, AI-agent instructions, URL verification, license, and reusable templates. Use when the user wants to generate a new awesome repo, awesome list, curated repository, or topic resource catalog from a topic plus optional taxonomy, inclusion criteria, and researched entries.
+metadata: 
+  author: test
+  version: 1.0.0
 ---
 
 # Awesome Repo Builder

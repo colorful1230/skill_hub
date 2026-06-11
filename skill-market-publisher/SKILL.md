@@ -1,6 +1,8 @@
 ---
 name: skill-market-publisher
 description: Publish, submit, and verify local skills across public skill marketplaces, directories, and registries. Use when an agent needs to take a skill folder or skill repository, confirm current submission paths, prepare cross-market metadata, run verified live adapters, or generate manual submission bundles for markets such as AgentSkill.sh, Skillstore, SkillNet, agent-skills.md, SkillsMD, SkillHub, SkillHQ, and related registries.
+license: MIT
+compatibility: codex
 ---
 
 # Skill Market Publisher
